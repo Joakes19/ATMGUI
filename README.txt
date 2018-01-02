@@ -1,4 +1,6 @@
+===========================
 ATM w/GUI
+===========================
 
 Simple ATM with multiple accounts using Java Swing.
 
